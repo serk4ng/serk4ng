@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Serkan
 - 👀 I’m interested in .NET Framework , HTML , CSS , Javascript , JQuery
 - 🌱 I’m currently learning .NET Core
-
+- 📫 How to reach me s.gozlukaya000@gmail.com
 <!---
 - 💞️ I’m looking to collaborate on .NET
 - 📫 How to reach me ...
